@@ -1,1 +1,1 @@
-This repo contain all file that created during Quiz of HAMOYE Data science track.
+This repo contain all code file that created during Quiz of HDSC-Winter-23 for Data science track.
